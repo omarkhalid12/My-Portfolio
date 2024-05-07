@@ -6,7 +6,7 @@ import ToggleMode from '../ToggleMode';
 import { outlineButtonVariants } from '../../constants';
 import OutlineButton from '../ui/OutlineButton';
 import { toggleMenu } from '../../redux/slices/theme.slice';
-import cv from '../../assets/Omar-Khalid-Mohamed-Resume.pdf';
+import cv from '../../assets/Omar-Khalid-Resume.pdf';
 
 export default function Navbar() {
   const dispatch = useDispatch();
