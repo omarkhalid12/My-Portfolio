@@ -152,7 +152,7 @@ const projects = [
     image: vSCodeClone,
     title: 'vsCode Clone',
     link: {
-      live: 'vs-code-clone-eta.vercel.app',
+      live: 'http://vs-code-clone-eta.vercel.app',
       github: 'https://github.com/omarkhalid12/VS-code-Clone',
     },
     direction: '100',
