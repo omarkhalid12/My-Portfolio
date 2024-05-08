@@ -142,7 +142,7 @@ const projects = [
     image: todoApp,
     title: 'todo App',
     link: {
-      live: 'todo-app-full-stack-gamma.vercel.app',
+      live: 'https://todo-app-full-stack-gamma.vercel.app',
       github: 'https://github.com/omarkhalid12/todo-app',
     },
     direction: '-100',
@@ -152,7 +152,7 @@ const projects = [
     image: vSCodeClone,
     title: 'vsCode Clone',
     link: {
-      live: 'http://vs-code-clone-eta.vercel.app',
+      live: 'https://vs-code-clone-eta.vercel.app',
       github: 'https://github.com/omarkhalid12/VS-code-Clone',
     },
     direction: '100',
@@ -162,7 +162,7 @@ const projects = [
     image: onlineStore,
     title: 'Online Store',
     link: {
-      live: 'online-store-three-iota.vercel.app/',
+      live: 'https://online-store-three-iota.vercel.app/',
       github: 'https://github.com/omarkhalid12/Online-Store',
     },
     direction: '-100',
@@ -172,7 +172,7 @@ const projects = [
     image: crudSystem,
     title: 'CRUD System',
     link: {
-      live: 'omarkhalid12.github.io/CRUD/',
+      live: 'https://omarkhalid12.github.io/CRUD/',
       github: 'https://github.com/omarkhalid12/CRUD',
     },
     direction: '100',
@@ -182,7 +182,7 @@ const projects = [
     image: template,
     title: 'Omar Template',
     link: {
-      live: 'omarkhalid12.github.io/Template2/',
+      live: 'https://omarkhalid12.github.io/Template2/',
       github: 'https://github.com/omarkhalid12/Template2',
     },
     direction: '-100',
@@ -192,7 +192,7 @@ const projects = [
     image: mentor,
     title: 'Mentor',
     link: {
-      live: 'omarkhalid12.github.io/Mentor/',
+      live: 'https://omarkhalid12.github.io/Mentor/',
       github: 'https://github.com/omarkhalid12/Mentor',
     },
     direction: '100',
@@ -202,7 +202,7 @@ const projects = [
     image: kasper,
     title: 'Kasper Template',
     link: {
-      live: 'omarkhalid12.github.io/Kasper-Template/',
+      live: 'https://omarkhalid12.github.io/Kasper-Template/',
       github: 'https://github.com/omarkhalid12/Kasper-Template',
     },
     direction: '-100',
