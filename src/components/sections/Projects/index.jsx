@@ -1,9 +1,9 @@
 import { motion } from 'framer-motion';
 import { Tilt } from 'react-tilt';
 import { LuExternalLink, LuGithub } from 'react-icons/lu';
+import { Link } from 'react-router-dom';
 import { projects } from '../../../constants';
 import Title from '../../Title';
-import { Link } from 'react-router-dom';
 
 export default function Projects() {
   return (
